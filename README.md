@@ -6,7 +6,8 @@ Check the [`preparation&installation`](preparation%26installation.md) note for t
 
 ## I have an idea for the hackathon
 
-Open an issue using the [`new project template`](https://github.com/qiskit-community/qiskit-hackathon-singapore-19/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template.
+Open an issue using the [`new project template`](https://github.com/qiskit-community/qiskit-camp-asia-19/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template.
+
 Don't worry if your team is not complete yet.
 Tag your project with `members wanted` and describe what kind of member are your searching for in the `Members` section.
 At the beginning of the hackathon, the project should have no more than 5 members.
