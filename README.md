@@ -29,28 +29,36 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 ## Hackathon Schedule
 
-| Day 1 |  |
+| Monday (Nov 18) |  |
 |:--------------:|:---------------------------------:|
-| 09:00 | Registration |
-| 09:30 - 12:00 | Welcome and Kick-off at IBM Japan|
-| 12:00 - 13:00 | Lunch |
-| 13:00 - 15:00 | Shuttles leave to hackathon venue|
-| 15:00 - 16:00 | Check in|
+| 10:00 - | Registration Opens at IBM Japan|
+| 12:30 - | Shuttle Busses Depart|
+| 15:00 - 16:00 | Check into Hackathon Venue|
 | 16:00 - 18:00 | Team Building Session|
-| 19:00 - 21:00 | Dinner & Presentation of Projects|
+| 19:30 - 21:00 | Welcome to Qiskit Camp! Presentation & Dinner|
 |  |  |
-| Day 2 |  |
-| 08:30 - 12:00 | Hacking Session  |
+| Tuesday (Nov 19)|  |
+| 08:00 - 09:00 | Breakfast |
+| 09:00 - 10:00 | Team Formation Begins  |
+| 10:00 - 12:00 | Team Formation Ends & Hackathon Begins|
 | 12:00 - 13:00 | Lunch |
-| 13:00 - 17:00 | Hacking Session |
-| 18:00 - 19:00 | Dinner |
-| 19:00 - 21:00 | Hacking Session |
+| 18:30 - 19:30 | Dinner |
+| 19:30 - 20:30 | Hacking Session Ends |
+| 22:00 | Venue Closes |
 |  |  |
-| Day 3 |  |
-| 08:30 - 15:00 | Hacking Session  |
+| Wednesday (Nov 20) |  |
+| 08:00 - 09:00 | Breakfast |
+| 09:00 - 14:00 | Hacking Session  |
+| 14:00 - 14:45 | Hackathon Ends & Presentations Get Finalized |
 | 15:00 - 17:00 | Team Presentations |
-| 17:00 - 18:00 | Announcement of winning teams |
+| 17:00 - 18:00 | Judging/Awards |
 | 18:00 - 18:30 | Closing ceremony |
-| 18:30 - 20:00 | Closing networking event & snacks |
+| 19:30 -  | Dinner & Celebration |
+|  |  |
+| Thursday (Nov 21) |  |
+| 08:00 - 09:00 | Breakfast |
+| 09:00 - 12:00 | Group Checkout |
+| 10:00 - | First Shuttles depart for Tokyo Station |
+| 15:00 - | Last Shuttles Depart for Tokyo Station |
 
 
