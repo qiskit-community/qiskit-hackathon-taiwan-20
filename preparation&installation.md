@@ -32,6 +32,6 @@ Here are some learning resources for Qiskit:
 - [Qiskit tutorials](https://quantum-computing.ibm.com/jupyter/tutorial/1_start_here.ipynb)
 - [Qiskit textbook](https://community.qiskit.org/textbook/)
 
-## For our Japanese qudience, the following resources from QunaSys is informative:
+## For our Japanese audience, the following resources from QunaSys is informative:
 - [量子コンピュータの基礎から応用まで](https://speakerdeck.com/qunasys/quantum-summit-2019)
 - [Quantum Native Dojo](https://dojo.qulacs.org/ja/latest/)
