@@ -1,4 +1,4 @@
-# Qiskit Camp Asia 2019
+# Qiskit Camp Kolkata 2020
 
 ## Things to do before the hackathon
 
@@ -14,7 +14,7 @@ At the beginning of the hackathon, the project should have no more than 5 member
 
 ## My team is complete
 
-Ask a Qiskit coach in the channel `#qiskit-camp-asia` (qiskit.slack.com) to remove the label `members wanted`.
+Ask a Qiskit coach in the channel `#qiskit-camp-kolkata` (qiskit.slack.com) to remove the label `members wanted`.
 
 ## The project is ready. Let's hack!
 
@@ -29,24 +29,26 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 ## Hackathon Schedule
 
-| Monday (Nov 18) |  |
+| Friday (Mar 27) |  |
 |:--------------:|:---------------------------------:|
-| 10:00  | Registration Opens at IBM Japan|
-| 12:30  | Shuttle Busses Depart|
-| 15:00 - 16:00 | Check into Hackathon Venue|
-| 16:00 - 18:00 | Team Building Session|
-| 19:30 - 21:00 | Welcome to Qiskit Camp! Presentation & Dinner|
+| 18:00 - 21:00 | Networking Session + Dinner|
 |  |  |
-| Tuesday (Nov 19)|  |
-| 08:00 - 09:00 | Breakfast |
-| 09:00 - 10:00 | Team Formation Begins  |
-| 10:00 - 12:00 | Team Formation Ends & Hackathon Begins|
-| 12:00 - 13:00 | Lunch |
-| 18:30 - 19:30 | Dinner |
-| 19:30 - 20:30 | Hacking Session Ends |
+| Saturday (Mar 28)|  |
+| 09:00 | Registration |
+| 09:30 - 11:30| Tutorials/Talks  |
+| | Welcome to Qiskit University Hackathon|
+VQE/QAOA (YKT - TBD, Anastasia)
+Optimization (Takashi Imamichi)
+Quantum Machine Learning (Raymond)
+My Qiskit Journey (Junye)
+Introduction of Judges
+|
+| 11:30 - 13:00 | Pitching of Ideas/Team Forming/Lunch|
+| 13:00 - 18:00 | Dinner |
+| 19:30 - 20:30 | Hacking Session 1 |
 | 22:00 | Venue Closes |
 |  |  |
-| Wednesday (Nov 20) |  |
+| Sunday (Mar 29) |  |
 | 08:00 - 09:00 | Breakfast |
 | 09:00 - 14:00 | Hacking Session  |
 | 14:00 - 14:45 | Hackathon Ends & Presentations Get Finalized |
