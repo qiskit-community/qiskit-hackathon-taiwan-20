@@ -28,12 +28,12 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 
 ## Hackathon Schedule
-
 | Friday (Mar 27) |  |
-|:--------------:|:---------------------------------:|
+| -------------- | --------------------------------- |
 | 18:00 - 21:00 | Networking Session + Dinner|
 |  |  |
 | Saturday (Mar 28)|  |
+| -------------- | --------------------------------- |
 | 09:00 | Registration |
 | 09:30 - 11:30| Tutorials/Talks  |
 | | Welcome to Qiskit University Hackathon|
@@ -42,17 +42,16 @@ The team needs a coach before the final submission at the end of the hackathon.
 | | Quantum Machine Learning (Raymond Rudy)|
 | | My Qiskit Journey (Junye Huang)|
 | | Introduction of Judges|
-|
 | 11:30 - 13:00 | Pitching of Ideas/Team Forming/Lunch|
 | 13:00 - 18:00 | Hacking Session 1 |
 | 18:00 - 19:00 | Dinner |
 | 19:00 - 21:00 | Hacking Session 2 |
 |  |  |
 | Sunday (Mar 29) |  |
+| -------------- | --------------------------------- |
 | 08:00 - 12:00 | Hacking Session 3 - final |
 | 12:00 - 13:00 | Lunch  |
 | 13:00 - 14:00 | Hackathon Ends & Presentations Get Finalized |
 | 14:00 - 15:00 | Team Presentations (3 min/team)|
 | 15:00 - 16:00 | Judging/Awards |
 | 16:00 - 18:00 | Awards Ceremony + Closing Networking Event |
-
