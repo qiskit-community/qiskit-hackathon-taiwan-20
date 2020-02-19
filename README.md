@@ -28,7 +28,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 
 ## Hackathon Schedule
-| Friday (Mar 27) |  |
+| Friday (Mar 27)|  |
 | -------------- | --------------------------------- |
 | 18:00 - 21:00 | Networking Session + Dinner|
 
