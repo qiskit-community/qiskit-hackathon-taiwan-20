@@ -37,30 +37,22 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 09:00 | Registration |
 | 09:30 - 11:30| Tutorials/Talks  |
 | | Welcome to Qiskit University Hackathon|
-VQE/QAOA (YKT - TBD, Anastasia)
-Optimization (Takashi Imamichi)
-Quantum Machine Learning (Raymond)
-My Qiskit Journey (Junye)
-Introduction of Judges
+| | VQE/QAOA (TBD)|
+| | Optimization (TBD)|
+| | Quantum Machine Learning (Raymond Rudy)|
+| | My Qiskit Journey (Junye Huang)|
+| | Introduction of Judges|
 |
 | 11:30 - 13:00 | Pitching of Ideas/Team Forming/Lunch|
-| 13:00 - 18:00 | Dinner |
-| 19:30 - 20:30 | Hacking Session 1 |
-| 22:00 | Venue Closes |
+| 13:00 - 18:00 | Hacking Session 1 |
+| 18:00 - 19:00 | Dinner |
+| 19:00 - 21:00 | Hacking Session 2 |
 |  |  |
 | Sunday (Mar 29) |  |
-| 08:00 - 09:00 | Breakfast |
-| 09:00 - 14:00 | Hacking Session  |
-| 14:00 - 14:45 | Hackathon Ends & Presentations Get Finalized |
-| 15:00 - 17:00 | Team Presentations |
-| 17:00 - 18:00 | Judging/Awards |
-| 18:00 - 18:30 | Closing ceremony |
-| 19:30   | Dinner & Celebration |
-|  |  |
-| Thursday (Nov 21) |  |
-| 08:00 - 09:00 | Breakfast |
-| 09:00 - 12:00 | Group Checkout |
-| 10:00  | First Shuttles Depart for Tokyo Station |
-| 15:00  | Last Shuttles Depart for Tokyo Station |
-
+| 08:00 - 12:00 | Hacking Session 3 - final |
+| 12:00 - 13:00 | Lunch  |
+| 13:00 - 14:00 | Hackathon Ends & Presentations Get Finalized |
+| 14:00 - 15:00 | Team Presentations (3 min/team)|
+| 15:00 - 16:00 | Judging/Awards |
+| 16:00 - 18:00 | Awards Ceremony + Closing Networking Event |
 
