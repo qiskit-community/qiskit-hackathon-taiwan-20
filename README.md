@@ -1,4 +1,4 @@
-# Qiskit Camp Kolkata 2020
+# Qiskit Univeristy Hackathon Kolkata 2020
 
 ## Things to do before the hackathon
 
