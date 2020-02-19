@@ -1,4 +1,4 @@
-# Preparation for Qiskit Camp Asia 2019
+# Preparation for Qiskit Hackathon Kolkata 2020
 
 ## Things to install
 
@@ -31,7 +31,3 @@ Here are some learning resources for Qiskit:
 - [Coding with Qiskit Youtube series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) (*strongly recommended!*)
 - [Qiskit tutorials](https://quantum-computing.ibm.com/jupyter/tutorial/1_start_here.ipynb)
 - [Qiskit textbook](https://community.qiskit.org/textbook/)
-
-## For our Japanese audience, the following resources from QunaSys is informative:
-- [量子コンピュータの基礎から応用まで](https://speakerdeck.com/qunasys/quantum-summit-2019)
-- [Quantum Native Dojo](https://dojo.qulacs.org/ja/latest/)
