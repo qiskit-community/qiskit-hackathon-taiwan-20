@@ -31,7 +31,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 | Friday (Mar 27) |  |
 | -------------- | --------------------------------- |
 | 18:00 - 21:00 | Networking Session + Dinner|
-|  |  |
+
 | Saturday (Mar 28)|  |
 | -------------- | --------------------------------- |
 | 09:00 | Registration |
@@ -46,7 +46,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 13:00 - 18:00 | Hacking Session 1 |
 | 18:00 - 19:00 | Dinner |
 | 19:00 - 21:00 | Hacking Session 2 |
-|  |  |
+
 | Sunday (Mar 29) |  |
 | -------------- | --------------------------------- |
 | 08:00 - 12:00 | Hacking Session 3 - final |
