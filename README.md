@@ -35,13 +35,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 | Saturday (Mar 28)|  |
 | -------------- | --------------------------------- |
 | 09:00 | Registration |
-| 09:30 - 11:30| Tutorials/Talks  |
-| | Welcome to Qiskit University Hackathon|
-| | VQE/QAOA (TBD)|
-| | Optimization (TBD)|
-| | Quantum Machine Learning (Raymond Rudy)|
-| | My Qiskit Journey (Junye Huang)|
-| | Introduction of Judges|
+| 09:30 - 11:30| Welcome  + Qiskit Talks |
 | 11:30 - 13:00 | Pitching of Ideas/Team Forming/Lunch|
 | 13:00 - 18:00 | Hacking Session 1 |
 | 18:00 - 19:00 | Dinner |
