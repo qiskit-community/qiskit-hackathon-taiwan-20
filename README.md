@@ -26,6 +26,9 @@ A Qiskit coach guides and advices the team in its project.
 Also will be your contact point after the hackathon, in case that the project have a continuation.
 The team needs a coach before the final submission at the end of the hackathon.
 
+## Place
+Indian Institute of Science Education and Research Kolkata (IISER Kolkata)
+Address: Campus Rd, Mohanpur, West Bengal 741246, India
 
 ## Hackathon Schedule
 | Friday (Mar 27)|  |
