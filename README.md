@@ -30,7 +30,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 ## Hackathon Schedule
 |  Tuesday (Sep 8)|  |
 | -------------- | --------------------------------- |
-| 08:30 - 12:30| Travel |
+| 08:30 - 12:30| Travel to venue |
 | 12:30 - 12:50| check-in + orientation |
 | 12:50 - 14:00| Lunch + Venue Preparation |
 | 14:00 - 15:00 | Rules, Guidelines, Judging Explanation|
@@ -57,7 +57,8 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 07:00 - 09:00 | Breakfast |
 | 09:00 - 09:30 | Hackathon Ends, Presentations Get Finalized |
 | 09:30 - 10:55 | Team Presentations (5min + 2min Q&A) |
-| 10:55 - 11:10 | Team Presentations (3 min/team)|
+| 10:55 - 11:30 | Coffee Break|
 | 11:30 - 12:00 | Awards Ceremony|
 | 12:00 - 13:00 | Lunch|
 | 13:00 - 14:00 | Activities |
+| 14:30 - 18:30 | Return Trip |
