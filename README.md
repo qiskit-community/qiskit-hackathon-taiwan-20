@@ -1,4 +1,4 @@
-# Qiskit Univeristy Hackathon Taiwan 2020
+# Qiskit Hackathon Taiwan 2020
 
 ## Things to do before the hackathon
 
