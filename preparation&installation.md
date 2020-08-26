@@ -1,4 +1,4 @@
-# Preparation for Qiskit Hackathon Kolkata 2020
+# Preparation for Qiskit Hackathon Taiwan 2020
 
 ## Things to install
 
