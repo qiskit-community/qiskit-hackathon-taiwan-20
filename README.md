@@ -30,17 +30,17 @@ The team needs a coach before the final submission at the end of the hackathon.
 ## Hackathon Schedule
 |  Tuesday (Sep 8)|  |
 | -------------- | --------------------------------- |
-| 08:30 - 12:30| Travel to venue |
-| 12:30 - 12:50| check-in + orientation |
-| 12:50 - 14:00| Lunch + Venue Preparation |
-| 14:00 - 15:00 | Rules, Guidelines, Judging Explanation|
-| 15:00 - 15:15 | Coffee Break|
-| 15:15 - 15:25 | Grouping and formulation of hackathon topics|
-| 15:25 - 15:40 | Topic discussion by groups|
-| 15:40 - 16:40 | Announcing Research Topics and Members (5 minutes for each group)|
-| 16:40 - 16:50 | Allocation of rooms + break|
-| 16:50 - 17:30 | Group Discussion|
-| 18:00 - 20:00 | Dinner|
+| 08:30 - 12:30 | Travel to Venue |
+| 12:30 - 12:50 | Registration |
+| 12:50 - 14:00 | Lunch |
+| 14:00 - 15:00 | Opening & Keynote Speech|
+| 15:00 - 15:10 | Introduction of Qiskit Hackathon|
+| 15:10 - 15:30 | Coffee Break|
+| 15:30 - 16:10 | Team Building Activities / Pitches|
+| 16:20 - 17:00 | Introduce ideas and members of each team|
+| 17:00 - 17:30 | Hotel Check-In & Room Assignments|
+| 17:30 - 18:00 | Group Discussion|
+| 18:00 - 20:00 | Dinner & Hackathon Welcome Session|
 
 
 | Wednesday (Sep 9)|  |
@@ -60,5 +60,6 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 10:55 - 11:30 | Coffee Break|
 | 11:30 - 12:00 | Awards Ceremony|
 | 12:00 - 13:00 | Lunch|
-| 13:00 - 14:00 | Activities |
+| 13:00 - 14:00 | Free Time |
+| 14:10 - 14:30 | Board Motorcoaches and Depart |
 | 14:30 - 18:30 | Return Trip |
